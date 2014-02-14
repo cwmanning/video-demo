@@ -6,7 +6,7 @@
 	</head>
 	<body>
 
-		<video id="player" autoplay preload data-origin-x="20" data-origin-y="40">
+		<video id="player" autoplay preload data-origin-x="20" data-origin-y="50">
 			<source src="video/pitcher.mp4" type="video/mp4">
 			<source src="video/pitcher.webm" type="video/webm">
 		</video>
