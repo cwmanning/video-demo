@@ -1,12 +1,12 @@
 <!doctype html>
 <html>
 	<head>
-		<title>HTML5 video demo</title>
+		<title>Demo: Fullscreen HTML5 Video with CSS Transforms</title>
 		<link href="demo.css" rel="stylesheet">
 	</head>
 	<body>
 
-		<video id="player" autoplay preload loop data-origin-x="20" data-origin-y="40">
+		<video id="player" autoplay preload data-origin-x="20" data-origin-y="40">
 			<source src="video/pitcher.mp4" type="video/mp4">
 			<source src="video/pitcher.webm" type="video/webm">
 		</video>
